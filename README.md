@@ -8,4 +8,4 @@ Hello! This is a VS Code theme that I made inspired by the general theme of Luck
 * [X](https://twitter.com/DymierJohn)
 * [Instagram](https://www.instagram.com/dymnomz/)
 
-**🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀**
+**🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀**

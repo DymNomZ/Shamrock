@@ -1,8 +1,9 @@
 {
   "name": "dymnomz-shamrock",
-  "displayName": "DymNomZ Shamrock",
+  "displayName": "Shamrock",
   "description": "A Celtic-Luck inspired theme for VS Code! ☘",
-  "version": "1.0.0",
+  "icon": "images/SHAMROCK.png",
+  "version": "1.0.1",
   "publisher": "DymNomZ",
   "repository": {
       "type": "git",
