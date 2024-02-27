@@ -3,7 +3,7 @@
   "displayName": "Shamrock",
   "description": "A Celtic-Luck inspired theme for VS Code! ☘",
   "icon": "images/SHAMROCK.png",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "publisher": "DymNomZ",
   "repository": {
     "type": "git",
