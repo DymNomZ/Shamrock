@@ -2,7 +2,30 @@
   "name": "dymnomz-shamrock",
   "displayName": "DymNomZ Shamrock",
   "description": "A Celtic-Luck inspired theme for VS Code! ☘",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "DymNomZ",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/DymNomZ/Shamrock"
+  },
+  "keywords": [
+      "shamrock",
+      "luck",
+      "lucky",
+      "celtic",
+      "leprechaun",
+      "irish",
+      "ireland",
+      "green",
+      "leaf",
+      "leaves",
+      "nature",
+      "forest",
+      "garden",
+      "plant",
+      "plants",
+      "clover"
+  ],
   "engines": {
     "vscode": "^1.86.0"
   },

@@ -1,16 +1,11 @@
-# dymnomz-shamrock README
+# README
 
-## Working with Markdown
+Hello! This is a VS Code theme that I made inspired by the general theme of Luck and the Shamrock leaf!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Connect with me!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+* [LinkedIn](https://www.linkedin.com/in/dymierborgonia/)
+* [X](https://twitter.com/DymierJohn)
+* [Instagram](https://www.instagram.com/dymnomz/)
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀**
